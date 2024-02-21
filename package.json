@@ -47,6 +47,7 @@
     "wait-on": "^6.0.0"
   },
   "resolutions": {
-    "ts-node": "9.1.1"
+    "ts-node": "9.1.1",
+    "concat-stream": "https://github.com/max-mapper/concat-stream"
   }
 }
