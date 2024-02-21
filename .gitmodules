@@ -6,7 +6,7 @@
 	url = https://github.com/Shivansh070707/eth
 [submodule "circuits"]
 	path = circuits
-	url = https://github.com/Shivansh070707/circuits.git
+	url = https://github.com/Shivansh070707/circuits
 [submodule "packages"]
 	path = packages
 	url = https://github.com/Shivansh070707/packages
